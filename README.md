@@ -26,7 +26,7 @@ python main.py 0xTONADRESSE
 ## Exemple
 
 ```bash
-python main.py 0x3A34A55c4524EEF573ea88441cF48D0462fEE130
+python main.py 0xTONADRESSE
 ```
 
 ## Idées d'amélioration
